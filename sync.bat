@@ -15,3 +15,5 @@ if %status% equ Started (
   "%systemroot%\system32\inetsrv\AppCmd.exe" start apppool /apppool.name:%sitename% 
 )
 
+
+t3.2x.large 0.48 Wцкуцк
